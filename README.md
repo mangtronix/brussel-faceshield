@@ -1,3 +1,6 @@
+
+![Brussels Face Shield](https://github.com/mangtronix/brussel-faceshield/raw/master/Brussel_Faceshield.jpg)
+
 # Git repo für das Brüssel Faceshield (Maker community München)
 
 * [Hauptinformationsseite für München: https://forums.erfindergarden.de/t/faceshield-angebot-im-makervsvirus-hubmuenchen/538](https://forums.erfindergarden.de/t/faceshield-angebot-im-makervsvirus-hubmuenchen/538)
@@ -38,4 +41,3 @@ https://gitlab.com/fablab-ulb/projects/coronavirus/protective-face-shields
 * [General information on how to participate: : https://www.makervsvirus.org/](https://www.makervsvirus.org/)
 * [FAQ: https://www.makervsvirus.org/faq](https://www.makervsvirus.org/faq)
 * [Guides: https://www.makervsvirus.org/guides](https://www.makervsvirus.org/guides)
-
